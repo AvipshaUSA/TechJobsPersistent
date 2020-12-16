@@ -9,6 +9,7 @@ namespace TechJobsPersistent.Models
 
         public Skill()
         {
+
         }
 
         public Skill(string name, string description)
